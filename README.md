@@ -1,7 +1,7 @@
 # test
 
 > A Vue.js project
-
+> This project, based on Echarts and Vue, is designed for data visualization UI. Only front-end code is involved. The geojson is painted with "geojson.io", since Yiwu is a county-level city and there is no detailed map json of Yiwu.
 ## Build Setup
 
 ``` bash
